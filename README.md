@@ -1,6 +1,6 @@
 # Liver_Saver_App 
 
-An app that returns on demand liver injury risk labels for 2330 FDA approved drugs (includes all small molecule drugs approved before 2018). This work was performed as part of Health Data fellowship in Insight's data science program in Boston (Summer 2019 session).
+An app that returns on demand liver injury risk labels for 2330 FDA approved drugs (includes all small molecule drugs approved before 2018). 
 
 Liver injury risk labels returned by app are based on one of two sources: (1) FDA/Liver Toxicity Knowledge Base for 1036 drugs and (2) predictive model for 1294 drugs based on web-scraped real world evidence predictors from WHO/www.vigibase.org
 
