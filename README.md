@@ -6,5 +6,5 @@ Liver injury risk labels returned by app are based on one of two sources: (1) FD
 
 App is based on Dash framework and can be implemented via running app.py along with csv file containing all drugs/liver injury risk labels.
 
-Code used for predictive modeling of liver injury risk labeling for 1294 drugs to be uploaded separately.
+Code (and datasets) used for predictive modeling of liver injury risk labels and combining with existing liver risk labels for limited drugs is available within the "modeling" folder.
 
