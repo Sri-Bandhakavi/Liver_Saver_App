@@ -6,5 +6,6 @@ Liver injury risk labels returned by app are based on one of two sources: (1) FD
 
 Liver_Saver_App  is based on the Python/Dash framework and can be implemented via running app.py along with csv file containing all drugs/liver injury risk labels. 
 
-Python code (and datasets) used for predictive modeling of 1294 liver injury risk labels are available within the "modeling" folder.
+Python code (and datasets) used for predictive modeling of 1294 liver injury risk labels are available within the "modeling" folder.  For a youtube video describing this work, please see: https://www.youtube.com/watch?v=ZnXGmo27hDo
+
 
