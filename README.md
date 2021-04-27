@@ -1,4 +1,10 @@
-# Liver_Saver_App 
+# PROBLEM STATEMENT
+Drug induced Liver injury risk (DILI) is a relatively rare but potentially fatal problem caused by prescription and OTC drugs. Unfortunately, management of this risk is currently challenging because:
+1.	only ~35% of all FDA approved drugs are currently annotated for their DILI risk and 
+2.	even this limited annotation information is not easily retrievable in a clinical setting (i.e., at the time of making a prescription decision).
+
+
+# SOLUTION: Liver_Saver_App 
 
 An app (https://liversaver1.herokuapp.com/) that returns on demand liver injury risk labels for 2330 FDA approved drugs (includes all small molecule drugs approved before 2018). Liver_Saver_App  is based on the Python/Dash framework and can be implemented via running app.py along with csv file containing 2330 drugs and associated liver injury risk labels. 
 
